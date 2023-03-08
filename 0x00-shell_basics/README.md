@@ -31,3 +31,5 @@ This script lists all files in:
 This script prints the tyoe of the file /tmp/iamafile
 - **13-symbolic_link**
 This script creates a symbolic link in the current working directory to /bin/ls named __ls__
+- **14-copy_html**
+This script copies all the HTML files from the current workin directory to the parent of the working directory
