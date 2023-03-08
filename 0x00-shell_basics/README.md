@@ -29,3 +29,5 @@ This script lists all files in:
 	--/boot directory
 - **12-file_type**
 This script prints the tyoe of the file /tmp/iamafile
+- **13-symbolic_link**
+This script creates a symbolic link in the current working directory to /bin/ls named __ls__
