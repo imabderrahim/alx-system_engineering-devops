@@ -27,3 +27,5 @@ This script lists all files in:
 	--The current directory
 	--The parent of the working directory
 	--/boot directory
+- **12-file_type**
+This script prints the tyoe of the file /tmp/iamafile
