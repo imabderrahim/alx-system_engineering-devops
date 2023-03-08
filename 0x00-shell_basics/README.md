@@ -39,4 +39,5 @@ This script moves all files beginning with an uppercase letter to the directory 
 This script deletes all files in the current working directory that end with the characte ~
 - **102-tree**
 This script creates the directories welcome/ , welcome/to/ and welcome/to/school/ in the current directory
-
+- **103-commas**
+This script lists all files and directories of the current directory, seprated by commas
