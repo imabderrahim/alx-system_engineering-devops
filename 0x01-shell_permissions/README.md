@@ -31,4 +31,6 @@ This script changes the group owner for the file 'hello' to 'school'
 This script changes the owner and the group owner for all the files and directories in the working directory
 - **101-symbolic_link_permissions**
 This script changes the owner and the group owner of a symbolic link named _hello
+- **102-if_only**
+This script changes the owner of the file hello to betty only if it's owned by the user guillaume
 
