@@ -29,4 +29,6 @@ This script creates a new directory with specific permissions
 This script changes the group owner for the file 'hello' to 'school'
 - **100-change_owner_and_group**
 This script changes the owner and the group owner for all the files and directories in the working directory
+- **101-symbolic_link_permissions**
+This script changes the owner and the group owner of a symbolic link named _hello
 
