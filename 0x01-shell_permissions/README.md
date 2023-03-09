@@ -23,4 +23,6 @@ This script sets some permissions to the file hello
 This script sets the mode of the file hello the same as olleh's mode
 - **11-directories_permissions**
 This script adds execute permission to all subdirectories of the current directory for all users
+- **12-directory_permissions**
+This script creates a new directory with specific permissions
 
