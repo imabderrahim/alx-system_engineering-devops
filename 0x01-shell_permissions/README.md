@@ -25,4 +25,6 @@ This script sets the mode of the file hello the same as olleh's mode
 This script adds execute permission to all subdirectories of the current directory for all users
 - **12-directory_permissions**
 This script creates a new directory with specific permissions
+- **13-change_group**
+This script changes the group owner for the file 'hello' to 'school'
 
