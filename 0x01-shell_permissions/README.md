@@ -13,7 +13,7 @@ This script creates an empty file called hello
 This script adds execute permission to the owner of the file hello
 - **6-multiple_permissions**
 This script adds some permissions to the file hello
-- **7-everybody
+- **7-everybody**
 This script adds execution permission to all users to the file hello
 - **8-James_Bond**
 This script sets some permissions to the file hello
@@ -33,4 +33,6 @@ This script changes the owner and the group owner for all the files and director
 This script changes the owner and the group owner of a symbolic link named _hello
 - **102-if_only**
 This script changes the owner of the file hello to betty only if it's owned by the user guillaume
+- **103-Star_Wars**
+This script will play the Star Wars IV episode in the Terminal
 
