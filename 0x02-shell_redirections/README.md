@@ -43,4 +43,6 @@ This script Replaces all characters A and c from inputs to Z and e repectively
 This script removes all letters c and C from input
 - **21-reverse**
 This script reverses its input
+- **22=users_and_homes**
+This script displays all users and their home directories, sorted by users
 
