@@ -14,5 +14,7 @@ This script displays the first 10 lines of /etc/passwd
 - **6-third_line**
 This script displays the third line of the file iacta
 - **7-file**
-This script creates afile named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text 'Best School'
- 
+This script creates a file with a special name containing the text 'Best School'
+- **8-cwd_state**
+This script writes into the file ls\_cwd\_content the result of the command ls -la
+
