@@ -17,4 +17,6 @@ This script displays the third line of the file iacta
 This script creates a file with a special name containing the text 'Best School'
 - **8-cwd_state**
 This script writes into the file ls\_cwd\_content the result of the command ls -la
+- **9-duplicate_last_line**
+This script duplicates the last line of the file iacta
 
