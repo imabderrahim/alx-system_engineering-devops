@@ -19,4 +19,6 @@ This script creates a file with a special name containing the text 'Best School'
 This script writes into the file ls\_cwd\_content the result of the command ls -la
 - **9-duplicate_last_line**
 This script duplicates the last line of the file iacta
+- **10-no_more_js**
+This script deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders
 
