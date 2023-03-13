@@ -45,4 +45,6 @@ This script removes all letters c and C from input
 This script reverses its input
 - **22-users\_and\_homes**
 This script displays all users and their home directories, sorted by users
+- **100-empty_casks**
+This script finds all empty files and directories in the current directory and all sub-directories
 
