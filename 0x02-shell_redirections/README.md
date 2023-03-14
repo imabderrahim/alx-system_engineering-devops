@@ -50,4 +50,4 @@ This script finds all empty files and directories in the current directory and a
 - **101-gifs**
 This script lists all the files with a .gif extension in the current directory and all its sub-directories
 - **102-acrostic**
-
+- **103-the\_biggest\_fan"
