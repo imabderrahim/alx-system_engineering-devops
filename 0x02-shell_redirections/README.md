@@ -49,4 +49,5 @@ This script displays all users and their home directories, sorted by users
 This script finds all empty files and directories in the current directory and all sub-directories
 - **101-gifs**
 This script lists all the files with a .gif extension in the current directory and all its sub-directories
+- **102-acrostic**
 
